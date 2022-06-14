@@ -30,7 +30,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://www.instagram.com/caaa_833/'
 global.sgh = 'https://github.com/Faarz'
-global.sgc = 'https://chat.whatsapp.com/ChDmgKcqXQV7EL9Pzgou8E'
+global.sgc = 'https://chat.whatsapp.com/GNLN8VNm1waIvfFi7nRLGD'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
@@ -109,10 +109,10 @@ global.author = '                「 Miaw BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/4118cd058179b41eb4c18.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/65e9bb2d6a41a4e445025.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/4118cd058179b41eb4c18.jpg'
 global.giflogo = 'https://telegra.ph/file/4118cd058179b41eb4c18.jpg'
-global.thumbs = ['https://telegra.ph/file/4118cd058179b41eb4c18.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
+global.thumbs = ['https://telegra.ph/file/f5ed4e2cb60cccfc100a1.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ 
@@ -143,7 +143,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/3456faba4f4019fc85875.jpg'
+global.thumbdoc = 'https://telegra.ph/file/f5ed4e2cb60cccfc100a1.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
