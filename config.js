@@ -28,33 +28,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/caaa_833/'
-global.sgh = 'https://github.com/Faarz'
-global.sgc = 'https://chat.whatsapp.com/GNLN8VNm1waIvfFi7nRLGD'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://www.instagram.com/mursid.st'
+global.sgh = 'https://github.com/Botwa021'
+global.sgc = 'https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '6283843427860'
-global.povo = '6283843427860'
-global.pgopay = '6283843427860'
-global.ppulsa = '6283843427860'
-global.ppulsa2 = '6283843427860'
-global.psaweria = 'https://saweria.com/faarz'
+global.pdana = '088233832771'
+global.povo = '088233832771'
+global.pgopay = '088233832771'
+global.ppulsa = '089612698583'
+global.ppulsa2 = '089612698583'
+global.psaweria = 'https://saweria.com/mursid25'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283843427860'
-global.nomorown = '6283843427860'
-global.namebot = 'Miaw Bot-Md'
-global.nameown = 'Ichaa'
+global.nomorbot = '6289612698583'
+global.nomorown = '6288233832771'
+global.namebot = 'мυʀѕι∂ вσт'
+global.nameown = 'Mursid S'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283843427860'],
-  ['6281575900615'],
-  ['6285692949920'],
-  ['6285692949920', '❦ Icha', true]
+  ['6289612698583'],
+  ['6289612698583'],
+  ['6288233832771'],
+  ['6288233832771', 'ᴍᴜʀꜱɪᴅ ᴏᴡɴᴇʀ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,20 +99,20 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Miaw BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Miaw-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Miaw-Md'
-global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ Miaw BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Miaw BOT あ⁩ 」'
+global.wm = '© мυʀѕι∂ вσт' //Main Watermark
+global.wm2 = 'мυʀѕι∂ вσт'
+global.wm3 = '© мυʀѕι∂ вσт'
+global.botdate = `Date : ${week} ${date}\nTime : ${wktuwib}`
+global.bottime = `Waktu : ${wktuwib}`
+global.titlebot = `мυʀѕι∂ вσт | Created By ${global.nameown}`
+global.author = 'ᴍᴜʀꜱɪᴅ'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/65e9bb2d6a41a4e445025.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/4118cd058179b41eb4c18.jpg'
-global.giflogo = 'https://telegra.ph/file/4118cd058179b41eb4c18.jpg'
-global.thumbs = ['https://telegra.ph/file/f5ed4e2cb60cccfc100a1.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
+global.thumb = 'https://telegra.ph/file/9421a106287e081a2945d.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/9421a106287e081a2945d.jpg'
+global.giflogo = 'https://telegra.ph/file/9421a106287e081a2945d.jpg'
+global.thumbs = ['https://telegra.ph/file/9421a106287e081a2945d.jpg', 'https://telegra.ph/file/9421a106287e081a2945d.jpg', 'https://telegra.ph/file/9421a106287e081a2945d.jpg','https://telegra.ph/file/9421a106287e081a2945d.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ 
@@ -133,8 +133,8 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== TEXT ==============*/
-global.wait = '_Wait A Minute 🍂, Your Request In Proccess_'
-global.eror = '```404 error```'
+global.wait = 'тυηggυ ρєʀмιηтααη ∂ιρʀσѕєѕ'
+global.eror = 'ѕєʀνєʀ єʀʀσʀ'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -146,8 +146,8 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/f5ed4e2cb60cccfc100a1.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
-global.fpagedoc = '999'
+global.fsizedoc = '123' // default 10TB
+global.fpagedoc = '2'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
@@ -172,8 +172,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `☂︎\nM\ni\na\nw\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickpack = '2022'
+global.stickauth = `© Mursid S`
 
 global.multiplier = 38 // The higher, The harder levelup
 
