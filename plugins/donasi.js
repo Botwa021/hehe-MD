@@ -1,22 +1,25 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
-┌─「 Donasi • Pulsa 」
-│ • *Indosat:* [${global.ppulsa}]
-│ • *Axis:* [${global.ppulsa2}]
-❏────
-
-┌─「 Donasi • Non Pulsa 」
-│ • *Ovo:* [${global.povo}]
-│ • *Gopay:* [${global.pgopay}]
-│ • *Dana:* [${global.pdana}]
-❏────
+╭──『 _*Donasi*_ 』──⬣
+│⬡ *_Dana_* :
+│⬡ *088233832771*
+│
+│⬡ *_Gopay_* :
+│⬡ *088233832771*
+╰─────────⬣
+╭─「 *NOTE* 」
+│ > Owner? wa.me/6288233832771
+│ _Hasil donasi akan digunakan buat sewa_
+│ _atau beli *RDP/VPS* agar bot bisa jalan_
+│ _24jam tanpa kendala_
+╰──────────⬣
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: '✨ Saweria', url: psaweria}},
-    {index: 2, urlButton: {displayText: '📷 Instagram', url: sig}},
-    {index: 3, urlButton: {displayText: '🌎 Official Group', url: sgc}},
-    {index: 4, quickReplyButton: {displayText: 'Menu', id: '.menu'}},
-    {index: 5, quickReplyButton: {displayText: 'Owner', id: '.owner'}},
+    {index: 1, urlButton: {displayText: 'ѕαωєʀια', url: psaweria}},
+    {index: 2, urlButton: {displayText: 'ιηѕтαgʀαм', url: sig}},
+    {index: 3, urlButton: {displayText: 'gʀυρ вσт', url: sgc}},
+    {index: 4, quickReplyButton: {displayText: 'мєηυ', id: '.menu'}},
+    {index: 5, quickReplyButton: {displayText: 'σωηєʀ', id: '.owner'}},
 ]
 let tm = {
 text: text,
